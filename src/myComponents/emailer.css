@@ -1,0 +1,16 @@
+.emailer {
+
+    width: 100vh;
+    margin-top: 1vh;
+    background: white;
+    border: 1px solid snowwhite;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    border-radius: 4px;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    text-align: center;
+    font-size: 18px !important;
+}
+
